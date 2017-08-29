@@ -1,0 +1,21 @@
+{
+  "name": "nmodule",
+  "version": "0.0.1",
+  "description": "Niagara module resource resolution",
+  "main": "lib/nmodule.js",
+  "scripts": {
+    "test": "grunt jshint jasmine_nodejs"
+  },
+  "keywords": [
+    "niagara"
+  ],
+  "author": "Logan Byam",
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jasmine-nodejs": "^1.6.0",
+    "grunt-jsdoc": "^2.1.0"
+  }
+}
